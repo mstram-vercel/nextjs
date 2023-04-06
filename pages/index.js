@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+           (Geezer67 - Apr 5 2023 11:30 p.m. Get started by editing&nbsp;
             <code className={styles.code}>pages/index.js</code>
           </p>
           <div>
